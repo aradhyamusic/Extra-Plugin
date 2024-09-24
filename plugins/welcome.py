@@ -160,7 +160,7 @@ async def greet_new_members(_, member: ChatMemberUpdated):
                             [
                                 InlineKeyboardButton(
                                     f"✪ ᴛᴀᴘ ᴛᴏ ᴄʟᴏsᴇ ✪",
-                                    url=f"https://t.me/ok_win_predictions",
+                                    url=f"https://t.me/ur_rishu_143",
                                 )
                             ]
                         ]
@@ -183,11 +183,11 @@ async def greet_new_members(_, member: ChatMemberUpdated):
         return
 
 
-__MODULE__ = "Wᴇᴄᴏᴍᴇ"
+__MODULE__ = "Wᴇlᴄᴏᴍᴇ"
 __HELP__ = """
-## Aᴜᴛᴏ-Wᴇᴄᴏᴍᴇ Mᴏᴅᴜᴇ Cᴏᴍᴍᴀɴᴅs
+## Aᴜᴛᴏ-Wᴇlᴄᴏᴍᴇ Mᴏᴅᴜᴇ Cᴏᴍᴍᴀɴᴅs
 
-### Cᴏᴍᴍᴀɴᴅ: /ᴀᴡᴇᴄᴏᴍᴇ
+### Cᴏᴍᴍᴀɴᴅ: /ᴀᴡᴇlᴄᴏᴍᴇ
 **Dᴇsᴄʀɪᴘᴛɪᴏɴ:**
 Eɴᴀʙᴇs ᴏʀ ᴅɪsᴀʙᴇs ᴛʜᴇ ᴀᴜᴛᴏ-ᴡᴇᴄᴏᴍᴇ ғᴇᴀᴛᴜʀᴇ ɪɴ ᴀ ɢʀᴏᴜᴘ ᴄʜᴀᴛ.
 
