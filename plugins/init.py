@@ -963,30 +963,6 @@ ADD_INTERVAL = 300
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 
 
@@ -1339,7 +1315,7 @@ ADD_INTERVAL = 300
 
 
 
-users = "group_music_bot"  # don't change because it is connected from client to use music API key
+users = "vip_music_vc_bot"  # don't change because it is connected from client to use music API key
 
 async def add_bot_to_chats():
     try:
