@@ -4,7 +4,7 @@ import requests
 # Store user state to track if they are awaiting a query for the draw command
 user_states = {}
 
-# Define the handler for /draw command, allowed only in group chats
+# Define the handler for /make command, allowed only in group chats
 @app.on_message(filters.command("make") & filters.group)
 async def ask_for_query(client, message):
     # Check if a query is provided directly with the /make command
