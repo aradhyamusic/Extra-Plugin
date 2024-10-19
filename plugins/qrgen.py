@@ -11,7 +11,7 @@ async def write_text(client, message):
     text = " ".join(message.command[1:])
     photo_url = "https://dynamicqrcode.nepcoderdevs.workers.dev/?message=" + text
     await app.send_photo(
-        chat_id=message.chat.id, photo=photo_url, caption="🍁Here is your Qr code"
+        chat_id=message.chat.id, photo=photo_url, caption="🍁𝗛𝗲𝗿𝗲 𝗶𝘀 𝘆𝗼𝘂𝗿 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗤𝗿 𝗰𝗼𝗱𝗲 \n\n𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 [●⃝🐼🇷𝗶𝘀𝗵𝘂࿐♡](t.me/ur_rishu_143)"
     )
 
 
